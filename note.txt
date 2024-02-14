@@ -1,0 +1,32 @@
+=======fonts========
+PTSans Regular
+PTSans Bold
+
+=======colors========
+black #010101
+yellow #fcdb00 
+ash #898989
+h2 #353A43
+
+=======font-size========
+
+                ===header===
+
+           xxl/xl/lg        md        sm/col
+menu          22            22          20
+
+                ===slider===
+
+           xxl/xl/lg        md        sm/col
+h1            32            32          25
+h2            20            20          18
+p             16            16          16
+icon          42            42          35
+pb            100           100         60
+
+
+
+
+
+
+
